@@ -3,7 +3,7 @@
  
  ## Sobre o menu
  - O desafio foi realizado na linguagem *JavaScript*, utilizando um pouco de *html* como base e *CSS* para estilizar. Também foi utilizado da *framework* [Bootstrao](https://getbootstrap.com/) **v5.1.0**.
- - A intenção foi criar um site simples, com um visual *clean*, mas que atendesse aos requisitos.\
+ - A intenção foi criar um site simples, com um visual *clean*, mas que atendesse aos requisitos.
  - Ao acessar o site, o usuário se depara com 3 botões, cada um levando a uma lista diferente:
    1. Primeiro leva a lista de **Postagens**.
    2. Segundo leva a lista de **Albuns**. 

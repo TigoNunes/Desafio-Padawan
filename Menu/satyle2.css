@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(53, 53, 53);
+}
+header{
+    background-color: purple;
+    color: white;
+    padding-top: 30px;
+    margin-top: 6px;
+}
+.titulo{
+    font-size: 80px;
+    font-family: arial;
+    padding-left: 0.5%;
+    text-decoration: none;
+    color: white;
+}
+.titulo:hover{
+    text-decoration: none;
+    color: orange;
+}
+#tituloPagina{
+    color: rgba(255, 166, 0, 0.699);
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 10px;
+
+}
+tr{
+    font-size: 20px;
+    text-align: left;
+}
+td{
+    padding-right: 20px;
+}
+
+

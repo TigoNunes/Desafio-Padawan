@@ -1,7 +1,7 @@
-var TMDB_ENDPOIN_ENDPOINT = 'https://jsonplaceholder.typicode.com/';
-var albumsPrefix =  'albums';
-var todosPrefix =  'todos';
-var postsPrefix =  'posts';
+const TMDB_ENDPOIN_ENDPOINT = 'https://jsonplaceholder.typicode.com/';
+const albumsPrefix =  'albums';
+const todosPrefix =  'todos';
+const postsPrefix =  'posts';
 
 $(() =>{
     $.get(TMDB_ENDPOIN_ENDPOINT + todosPrefix).then((data)=>{
